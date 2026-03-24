@@ -147,39 +147,50 @@ const techStackIcons = [
 
 const expCards = [
   {
-    review: "Adrian brought creativity and technical expertise to the team, significantly improving our frontend performance. His work has been invaluable in delivering faster experiences.",
+    review:
+      "Adrian brought creativity and technical expertise to the team, significantly improving our frontend performance. His work has been invaluable in delivering faster experiences.",
     imgPath: "/images/exp1.png",
     logoPath: "/images/logo1.png",
-    title: "Frontend Developer",
-    date: "January 2023 - Present",
+    title: "Elementary Education",
+    date: "2010 - 2016",
     responsibilities: [
-      "Developed and maintained user-facing features for the Hostinger website.",
-      "Collaborated closely with UI/UX designers to ensure seamless user experiences.",
-      "Optimized web applications for maximum speed and scalability.",
+      "My interest in technology started during my early school years, where I was first exposed to computers and digital tools.",
     ],
   },
   {
-    review: "Adrian’s contributions to Docker's web applications have been outstanding. He approaches challenges with a problem-solving mindset.",
+    review:
+      "Adrian’s contributions to Docker's web applications have been outstanding. He approaches challenges with a problem-solving mindset.",
     imgPath: "/images/exp2.png",
     logoPath: "/images/logo2.png",
-    title: "Full Stack Developer",
-    date: "June 2020 - December 2023",
+    title: "Junior High School",
+    date: "2016 - 2020",
     responsibilities: [
-      "Led the development of Docker's web applications, focusing on scalability.",
-      "Worked with backend engineers to integrate APIs seamlessly with the frontend.",
-      "Contributed to open-source projects that were used with the Docker ecosystem.",
+      "During junior high school, I continued exploring different fields while becoming more interested in technology.",
     ],
   },
   {
-    review: "Adrian’s work on Appwrite’s mobile app brought a high level of quality and efficiency. He delivered solutions that enhanced our mobile experience & meet our product goals.",
+    review:
+      "Adrian’s work on Appwrite’s mobile app brought a high level of quality and efficiency. He delivered solutions that enhanced our mobile experience & meet our product goals.",
     imgPath: "/images/exp3.png",
     logoPath: "/images/logo3.png",
-    title: "React Native Developer",
-    date: "March 2019 - May 2020",
+    title: "Senior High School (GAS)",
+    date: "2020 - 2022",
     responsibilities: [
-      "Built cross-platform mobile apps using React Native, integrating with Appwrite's backend services.",
-      "Improved app performance and user experience through code optimization and testing.",
-      "Coordinated with the product team to implement features based on feedback.",
+      "In senior high school, I initially planned to take ABM but made a last-minute decision to choose GAS.",
+      "I got to know myself better and realized that I genuinely enjoy working with technology.",
+    ],
+  },
+  {
+    review:
+      "Adrian brought creativity and technical expertise to the team, significantly improving our frontend performance. His work has been invaluable in delivering faster experiences.",
+    imgPath: "/images/exp1.png",
+    logoPath: "/images/logo1.png",
+    title: "College – BS Information Technology",
+    date: "2022 - Expected Graduation: August 8, 2026",
+    responsibilities: [
+      "Built projects using modern tech (React, Next.js, Tailwind)My interest in technology started during my early school years, where I was first exposed to computers and digital tools.",
+      "Learned software development and systemsBuilt projects using modern tech (React, Next.js, Tailwind)",
+      "Continuously improving through hands-on experienceLearned software development and systems",
     ],
   },
 ];
